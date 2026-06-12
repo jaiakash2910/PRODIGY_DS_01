@@ -19,11 +19,3 @@ The dataset was analyzed using Python, Pandas, and Matplotlib. Population data f
 * Python
 * Pandas
 * Matplotlib
-
-## Outcome
-
-Successfully created a bar chart to visualize population distribution, helping identify differences in population sizes among selected countries.
-
-## Author
-
-JAIAKASH S
