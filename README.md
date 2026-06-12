@@ -1,6 +1,6 @@
 
 
-# Data Science Internship - PRODIGY INFOTECH
+# Data Science Internship Task 1- PRODIGY INFOTECH
 
 ## Objective
 
