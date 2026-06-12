@@ -1,16 +1,18 @@
-# Population Distribution Visualization Using Python
 
-This project demonstrates how to create a bar chart using Python, Pandas, and Matplotlib to visualize population distribution across different countries. The dataset is sourced from the World Bank population database, and the analysis focuses on population figures for the year 2020.
 
-The project includes data loading, preprocessing, handling missing values, and creating a clear visual representation of population data for selected countries. The visualization helps compare population sizes and understand the distribution of population across nations.
+# Data Science Internship - PRODIGY INFOTECH
 
-## Features
+## Objective
 
-* Load and process World Bank population data
-* Extract population statistics for the year 2020
-* Clean and convert numerical data
-* Create a bar chart for population comparison
-* Visualize population distribution across countries
+Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable.
+
+## Dataset
+
+World Bank Population Dataset
+
+## Description
+
+The dataset was analyzed using Python, Pandas, and Matplotlib. Population data for the year 2020 was extracted and cleaned before creating a bar chart to visualize population distribution across different countries. The visualization provides a clear comparison of population sizes and demonstrates fundamental data visualization techniques.
 
 ## Technologies Used
 
@@ -18,6 +20,10 @@ The project includes data loading, preprocessing, handling missing values, and c
 * Pandas
 * Matplotlib
 
-## Objective
+## Outcome
 
-To visualize the distribution of a continuous variable (population) using a bar chart and gain insights into population differences among countries.
+Successfully created a bar chart to visualize population distribution, helping identify differences in population sizes among selected countries.
+
+## Author
+
+JAIAKASH S
